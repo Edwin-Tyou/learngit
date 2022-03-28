@@ -1,2 +1,4 @@
 This is a sample text file
-Another line of text.[A[C[C[C[C[C.[B[B[D[D[D[D[D[D
+Another line of text.
+It is ok to say it is not ok.
+这次只提交分支
